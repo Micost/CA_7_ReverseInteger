@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_7_ReverseInteger\CA_7_ReverseInteger\bin\Debug\CA_7_ReverseInteger.exe.config
+C:\Users\Chuan\Project\CA_7_ReverseInteger\CA_7_ReverseInteger\bin\Debug\CA_7_ReverseInteger.exe
+C:\Users\Chuan\Project\CA_7_ReverseInteger\CA_7_ReverseInteger\bin\Debug\CA_7_ReverseInteger.pdb
+C:\Users\Chuan\Project\CA_7_ReverseInteger\CA_7_ReverseInteger\obj\Debug\CA_7_ReverseInteger.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_7_ReverseInteger\CA_7_ReverseInteger\obj\Debug\CA_7_ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_7_ReverseInteger\CA_7_ReverseInteger\obj\Debug\CA_7_ReverseInteger.exe
+C:\Users\Chuan\Project\CA_7_ReverseInteger\CA_7_ReverseInteger\obj\Debug\CA_7_ReverseInteger.pdb
